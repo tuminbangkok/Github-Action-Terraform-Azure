@@ -20,9 +20,9 @@ locals {
   }
 }
 
-resource "azurerm_resource_group" "examplet" {
-  name     = "rg-example-test"
-  location = "West Europe"
+resource "azurerm_resource_group" "example" {
+  name     = "rg-example-test-sa"
+  location = "Southeast Asia"
   tags     = local.tags
 }
 #test222
