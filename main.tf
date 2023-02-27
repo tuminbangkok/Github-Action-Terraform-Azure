@@ -21,7 +21,7 @@ locals {
 }
 
 resource "azurerm_resource_group" "example" {
-  name     = "rg-example-test-sa"
+  name     = "rg-example-test-sa55555555"
   location = "Southeast Asia"
   tags     = local.tags
 }
