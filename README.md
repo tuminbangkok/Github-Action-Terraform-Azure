@@ -1,1 +1,0 @@
-# Github-Action-Terraform-Azure
