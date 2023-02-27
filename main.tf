@@ -20,7 +20,7 @@ locals {
   }
 }
 
-resource "azurerm_resource_group" "example" {
+resource "azurerm_resource_group" "exampledd" {
   name     = "rg-example-test"
   location = "West Europe"
   tags     = local.tags
