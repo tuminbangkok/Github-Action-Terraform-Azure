@@ -12,6 +12,6 @@ provider "azurerm" {
   # Configuration options
 }
 resource "azurerm_resource_group" "example" {
-  name     = "example9999"
+  name     = "example12135"
   location = "Southeast Asia"
 }
