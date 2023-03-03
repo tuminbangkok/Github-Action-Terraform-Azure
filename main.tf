@@ -8,6 +8,7 @@ terraform {
 }
 
 provider "azurerm" {
+   features {}
   # Configuration options
 }
 resource "azurerm_resource_group" "example" {
